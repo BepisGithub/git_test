@@ -1,0 +1,1 @@
+My first git project that I uploaded through the command line lol
